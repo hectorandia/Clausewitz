@@ -1,0 +1,109 @@
+<!-- ==== JAHRESEUBERSICHT CONTAINER ==== -->
+        <div class="modal fade" id="jahres">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h3 class="modal-title">Jahresübersicht 2016</h3>
+                    </div>
+                    <div class="modal-body">
+                        <table class="table table-bordered">
+                            <thead>
+                                <tr>
+                                    <th>Termin/Monat:</th>
+                                    <th>Veranstaltung:</th>
+                                    <th>Bemerkung:</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>25. Januar, 16.00 Uhr</td>
+                                    <td>Jahresplanung f. 2016, Festlegung geplanter Exkursionen u.
+                                    Veranstaltungen</td>
+                                    <td>Leitung: R. Stellmacher</td>
+                                </tr>
+                                <tr>
+                                    <td>29. Februar, 17.00 Uhr</td>
+                                    <td>Diskussionsrunde zur Thematik: "Wiener Kongress" </td>
+                                    <td>Referent: Klaus Möbius Ort: Kasino Clausewitz-Kaserne</td>
+                                </tr>
+                                <tr>
+                                    <td>14. März, 18.00 Uhr</td>
+                                    <td>Vortrag in der Erinnerungsstätte "Das Jahr 1813 an der Elbe"</td>
+                                    <td>Referent: Harald Uwe Bossert <br /><b>öffentlich</b></td>
+                                </tr>
+                                <tr>
+                                    <td>25. April, 18.00 Uhr</td>
+                                    <td>Vortrag in der Erinnerungsstätte "Marie von Clausewitz fasziniert mich immer wieder!"</td>
+                                    <td>Referent: Hans-Georg Dräger</td>
+                                </tr>
+                                <tr>
+                                    <td>03. Juni, 15.00 Uhr</td>
+                                    <td>Vortrag in der Erinnerungsstätte
+                                    "Gedanken zum Geburtstag der Marie von Clausewitz!"
+                                    Schenkung der Transkription der Briefe von Marie an Carl v. Clausewitz an die Stadt Burg</td>
+                                    <td>Referent: Hans-Georg Dräger von Hans-Georg Dräger an den Bürgermeister <br /><b>öffentlich</b></td>
+                                </tr>
+                                <tr>
+                                    <td>18. Juni</td>
+                                    <td>Historische Exkursion nach Neuruppin </td>
+                                    <td>Leitung: R.  Stellmacher<br /> K. Möbius</td>
+                                </tr>
+                                <tr>
+                                    <td>21. Juni, 18.00 Uhr</td>
+                                    <td>Vortrag in der Erinnerungsstätte "Das Clausewitz-Bild in der DDR"</td>
+                                    <td>Referent: Dr. Andrèe Türpe (Berlin) <br /><b>öffentlich</b></td>
+                                </tr>
+                                <tr>
+                                    <td>01. Juli, 10.00 Uhr</td>
+                                    <td>Gedenken zum Geburtstag CvC mit Enthüllung der Sockelplakette am Grabmal der
+                                     Fam. Clausewitz, Besichtigung Oberkirche, gemütlicher Ausklang auf dem Ehrenhof am Clausewitz-Haus</td>
+                                    <td>Leitung: R. Stellmacher, H. Jericho und K. Möbius <br /><b>Veranstaltung Friedhof <br />öffentlich</b></td>
+                                </tr>
+                                <tr>
+                                    <td>29. - 31. Juli</td>
+                                    <td>Exkursion nach Koblenz</td>
+                                    <td>Leitung: R. Stellmacher<br /> K. Möbius</td>
+                                </tr>
+                                <tr>
+                                    <td>20. August</td>
+                                    <td>Hist. Exkursion nach Berlin Besichtigung Invalidenfriedhof und Alter Berliner Garnisonsfriedhof</td>
+                                    <td>Leitung: R. Stellmacher</td>
+                                </tr>
+                                <tr>
+                                    <td>13. September</td>
+                                    <td>Auswertung Exkursionen u. Vorbereitung Museumsnacht</td>
+                                    <td>Leitung: R. Stellmacher <br />Ort: Erinnerungsstätte</td>
+                                </tr>
+                                <tr>
+                                    <td>21. Oktober, ab 17.00 Uhr</td>
+                                    <td>10. Burger Museumsnacht</td>
+                                    <td>Leitung: K. Möbius <br /><b>öffentlich</b></td>
+                                </tr>
+                                <tr>
+                                    <td>25. Oktober, 18.00 Uhr</td>
+                                    <td>Vortrag in der Erinnerungsstätte: „Ernst Moritz Arndt“</td>
+                                    <td>Referentin: Inge Poetzsch <br /><b>öffentlich</b></td>
+                                </tr>
+                                <tr>
+                                    <td>16. November, 17.00 Uhr</td>
+                                    <td>Feierliche Kranzniederlegung und Verleihung des Carl von Clausewitz - Preises der Stadt Burg</td>
+                                    <td><b>öffentlich (nur Kranzniederlegung)</b></td>
+                                </tr>
+                                <tr>
+                                    <td>Dezember</td>
+                                    <td>Jahresausklang </td>
+                                    <td></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                        
+                    </div><!-- body -->
+                </div>
+
+                <div class="modal-footer">
+                    <a href="" class="btn btn-default" data-dismiss="modal">Close</a>
+                </div>
+            </div>
+        <!-- ====  END JAHRESEUBERSICHT CONTAINER ==== -->
